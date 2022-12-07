@@ -1,5 +1,6 @@
 {
   "date":[
+    {
     "2022-12-07",
     "season":"advent",
     "season_week":2,
@@ -10,8 +11,9 @@
       "rank":"memorial",
       "rank_num":3.1}],
       "weekday":"wednesday"
-    }
-   ]
-  }
- ]
+     }
+    ]
+   }
+  ]
+ }
 }
